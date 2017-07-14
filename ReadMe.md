@@ -2,7 +2,7 @@
 
 This is a simple NodeJS script to transcribe all the PDFs in the folder to a text file.
 
-![alt text](https://github.com/abhi18av/ "usage")
+![Usage](https://github.com/abhi18av/transcribePDF.js/blob/master/usage.gif "usage")
 
 
 ## Pre-requisites
